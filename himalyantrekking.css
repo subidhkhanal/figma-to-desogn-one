@@ -1,0 +1,4191 @@
+.himalyantrekking-container {
+  min-height: 100vh;
+}
+.himalyantrekking-himalyantrekking {
+  width: 100%;
+  height: 5945px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.himalyantrekking-rectangle6327 {
+  top: 0px;
+  left: 124px;
+  width: 580px;
+  height: 7500px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-bannerslider {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-size: cover;
+  background-image: url("public/playground_assets/d815f5e9-d10d-4cc2-9fe3-85106318690c-kd4-1100h.undefined");
+}
+.himalyantrekking-rectangle9 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-rectangle8 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 175px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-line1 {
+  top: 175px;
+  left: 0px;
+  width: 1440px;
+  height: 0px;
+  position: absolute;
+}
+.himalyantrekking-frame74 {
+  top: 175px;
+  left: 454px;
+  width: 532px;
+  height: 849px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.himalyantrekking-frame72 {
+  width: 84px;
+  height: 84px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 32px;
+}
+.himalyantrekking-ellipse7 {
+  top: 0px;
+  left: 0px;
+  width: 84px;
+  height: 84px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-play {
+  top: 24.88888931274414px;
+  left: 28.77777862548828px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+.himalyantrekking-frame73 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 83.19999694824219px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+.himalyantrekking-text002 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame71 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 174px;
+  display: flex;
+  padding: 0 30px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.himalyantrekking-logowhite {
+  width: 143px;
+  height: 100px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.himalyantrekking-logowhite1 {
+  top: 0px;
+  left: 0px;
+  width: 143px;
+  height: 100px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-frame70 {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame69 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 24px;
+}
+.himalyantrekking-frame9 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 44px;
+}
+.himalyantrekking-frame3 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 8px;
+}
+.himalyantrekking-brandicons {
+  width: 56px;
+  height: 56px;
+  position: relative;
+}
+.himalyantrekking-frame10 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text004 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 32px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame8 {
+  width: 240px;
+  display: flex;
+  opacity: 0.80;
+  padding: 8px 24px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+  justify-content: space-between;
+}
+.himalyantrekking-text006 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Akshar;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.himalyantrekking-heroiconssolidmagnifyingglass {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.himalyantrekking-frame64 {
+  width: 807px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: flex-end;
+}
+.himalyantrekking-frame67 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.himalyantrekking-frame55 {
+  display: flex;
+  padding: 12px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.himalyantrekking-text008 {
+  color: rgba(204, 204, 204, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame56 {
+  display: flex;
+  padding: 12px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.himalyantrekking-text010 {
+  color: rgba(204, 204, 204, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame57 {
+  display: flex;
+  padding: 12px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.himalyantrekking-text012 {
+  color: rgba(204, 204, 204, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame58 {
+  display: flex;
+  padding: 12px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.himalyantrekking-text014 {
+  color: rgba(204, 204, 204, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame62 {
+  display: flex;
+  padding: 12px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.himalyantrekking-text016 {
+  color: rgba(204, 204, 204, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame60 {
+  display: flex;
+  padding: 12px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.himalyantrekking-text018 {
+  color: rgba(204, 204, 204, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame61 {
+  display: flex;
+  padding: 12px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: rgba(0, 193, 243, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px;
+}
+.himalyantrekking-frame75 {
+  width: 94px;
+  height: 23px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.himalyantrekking-text020 {
+  color: var(--dl-color-default-secondarycolor);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame68 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-frame611 {
+  height: 48px;
+  display: flex;
+  padding: 12px 32px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 24px;
+  background-color: var(--dl-color-default-secondarycolor);
+}
+.himalyantrekking-text022 {
+  color: rgba(34, 34, 34, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame119 {
+  top: 1024px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame118 {
+  width: 1440px;
+  display: flex;
+  padding: 64px 0 64px 226px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.himalyantrekking-frame116 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-frame85 {
+  width: 510px;
+  height: 544px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 59px;
+}
+.himalyantrekking-rectangle6331 {
+  top: 40.88177490234375px;
+  left: 268.797607421875px;
+  width: 241px;
+  height: 504px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 0 16px 16px 0;
+}
+.himalyantrekking-rectangle6332 {
+  top: 0px;
+  left: 0px;
+  width: 241px;
+  height: 504px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px 0 0 16px;
+}
+.himalyantrekking-frame84 {
+  width: 521px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame86 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-text024 {
+  color: rgba(0, 0, 0, 1);
+  width: 521px;
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 41.599998474121094px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.himalyantrekking-text029 {
+  color: rgba(0, 0, 0, 1);
+  width: 521px;
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame681 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-frame612 {
+  height: 48px;
+  display: flex;
+  padding: 12px 32px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 24px;
+  background-color: var(--dl-color-default-primarycolor);
+}
+.himalyantrekking-text031 {
+  color: var(--dl-color-default-outlinebutton);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame33 {
+  width: 1440px;
+  display: flex;
+  padding: 64px 0 64px 125px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+  background-color: rgba(0, 193, 243, 0.10000000149011612);
+}
+.himalyantrekking-frame32 {
+  width: 1191px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 32px;
+  justify-content: space-between;
+}
+.himalyantrekking-frame20 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text033 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 42px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.himalyantrekking-text035 {
+  color: var(--dl-color-gray-800);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame31 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.himalyantrekking-frame30 {
+  display: flex;
+  opacity: 0.20;
+  padding: 10px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 8px;
+  border-radius: 22px;
+  background-color: var(--dl-color-default-primarycolor);
+}
+.himalyantrekking-heroiconssolidchevronleft {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.himalyantrekking-frame29 {
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 22px;
+  background-color: var(--dl-color-default-primarycolor);
+}
+.himalyantrekking-heroiconsoutlinechevronright {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.himalyantrekking-frame28 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 8px;
+}
+.himalyantrekking-frame26 {
+  width: 376px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-frame23 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.himalyantrekking-rectangle6326 {
+  width: auto;
+  height: 240px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+}
+.himalyantrekking-frame24 {
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 8px 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.himalyantrekking-frame77 {
+  display: flex;
+  padding: 4px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 8px;
+}
+.himalyantrekking-text037 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame76 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame79 {
+  display: flex;
+  padding: 8px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.himalyantrekking-frame22 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+}
+.himalyantrekking-mapmarkeralt {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-text039 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame81 {
+  top: 4px;
+  left: 243px;
+  width: 121px;
+  height: 32px;
+  display: flex;
+  padding: 4px 16px;
+  z-index: 1;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.himalyantrekking-rectangle6329 {
+  top: 0px;
+  left: 0px;
+  width: 121px;
+  height: 32px;
+  position: absolute;
+}
+.himalyantrekking-vector337 {
+  top: 38px;
+  left: 121px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.himalyantrekking-text041 {
+  top: 4px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame80 {
+  display: flex;
+  padding: 8px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.himalyantrekking-frame78 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-star {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-text043 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-text045 {
+  color: rgba(34, 34, 34, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 23.399999618530273px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.himalyantrekking-frame27 {
+  display: flex;
+  position: relative;
+  box-shadow: 0px 7px 25px 0px rgba(0, 0, 0, 0.15000000596046448) ;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-frame231 {
+  width: 376px;
+  height: 240px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 0px;
+}
+.himalyantrekking-rectangle63261 {
+  top: 0px;
+  left: 0px;
+  width: 376px;
+  height: 240px;
+  position: absolute;
+  align-self: stretch;
+  border-color: transparent;
+  border-radius: 8px 8px 0 0;
+}
+.himalyantrekking-frame83 {
+  top: 16px;
+  left: 259px;
+  width: 122px;
+  height: 62px;
+  display: flex;
+  padding: 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px 0 0 8px;
+  background-color: rgba(236, 165, 29, 1);
+}
+.himalyantrekking-frame82 {
+  top: 11px;
+  left: 16px;
+  width: 90px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text047 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 21.1200008392334px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+.himalyantrekking-text049 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 16.799999237060547px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-vector336 {
+  top: 62px;
+  left: 117px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.himalyantrekking-frame241 {
+  width: 376px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 8px 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-default-outlinebutton);
+}
+.himalyantrekking-frame771 {
+  display: flex;
+  padding: 4px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 8px;
+}
+.himalyantrekking-text051 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame761 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame791 {
+  display: flex;
+  padding: 8px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.himalyantrekking-frame221 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+}
+.himalyantrekking-mapmarkeralt1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-text053 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame811 {
+  top: 4px;
+  left: 243px;
+  width: 121px;
+  height: 32px;
+  display: flex;
+  padding: 4px 16px;
+  z-index: 1;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.himalyantrekking-rectangle63291 {
+  top: 0px;
+  left: 0px;
+  width: 121px;
+  height: 32px;
+  position: absolute;
+}
+.himalyantrekking-vector3371 {
+  top: 38px;
+  left: 121px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.himalyantrekking-text055 {
+  top: 4px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame801 {
+  display: flex;
+  padding: 8px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.himalyantrekking-frame781 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-star01 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-text057 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-text059 {
+  color: rgba(34, 34, 34, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 23.399999618530273px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.himalyantrekking-frame281 {
+  width: 376px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-frame232 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.himalyantrekking-rectangle63262 {
+  width: auto;
+  height: 240px;
+  position: relative;
+  align-self: stretch;
+  border-color: transparent;
+}
+.himalyantrekking-frame242 {
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 8px 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.himalyantrekking-frame772 {
+  display: flex;
+  padding: 4px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 8px;
+}
+.himalyantrekking-text061 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame762 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame792 {
+  display: flex;
+  padding: 8px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.himalyantrekking-frame222 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+}
+.himalyantrekking-mapmarkeralt2 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-text063 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame812 {
+  top: 4px;
+  left: 243px;
+  width: 121px;
+  height: 32px;
+  display: flex;
+  padding: 4px 16px;
+  z-index: 1;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.himalyantrekking-rectangle63292 {
+  top: 0px;
+  left: 0px;
+  width: 121px;
+  height: 32px;
+  position: absolute;
+}
+.himalyantrekking-vector3372 {
+  top: 38px;
+  left: 121px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.himalyantrekking-text065 {
+  top: 4px;
+  left: 16px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame802 {
+  display: flex;
+  padding: 8px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.himalyantrekking-frame782 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-star02 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-text067 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-text069 {
+  color: rgba(34, 34, 34, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 23.399999618530273px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.himalyantrekking-frame291 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame233 {
+  width: 376px;
+  height: 240px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 0px;
+}
+.himalyantrekking-rectangle63263 {
+  top: 0px;
+  left: 0px;
+  width: 376px;
+  height: 240px;
+  position: absolute;
+  align-self: stretch;
+  border-color: transparent;
+}
+.himalyantrekking-frame831 {
+  top: 16px;
+  left: 259px;
+  width: 122px;
+  height: 62px;
+  display: flex;
+  padding: 8px 16px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(236, 165, 29, 1);
+}
+.himalyantrekking-frame821 {
+  top: 11px;
+  left: 16px;
+  width: 90px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text071 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 21.1200008392334px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+.himalyantrekking-text073 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 16.799999237060547px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame243 {
+  width: 376px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 8px 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.himalyantrekking-frame773 {
+  display: flex;
+  padding: 4px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 8px;
+}
+.himalyantrekking-text075 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame763 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame793 {
+  display: flex;
+  padding: 8px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.himalyantrekking-frame223 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+}
+.himalyantrekking-mapmarkeralt3 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-text077 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame813 {
+  top: 4px;
+  left: 243px;
+  width: 121px;
+  height: 32px;
+  display: flex;
+  padding: 4px 16px;
+  z-index: 1;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.himalyantrekking-text079 {
+  top: 4px;
+  left: 16px;
+  color: rgba(34, 34, 34, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame803 {
+  display: flex;
+  padding: 8px 0;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.himalyantrekking-frame783 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-star03 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-text081 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-text083 {
+  color: rgba(34, 34, 34, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 23.399999618530273px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.himalyantrekking-frame117 {
+  width: 1440px;
+  display: flex;
+  padding: 64px 125px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.himalyantrekking-group13 {
+  width: 1191px;
+  height: 615px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.himalyantrekking-rectangle6333 {
+  top: 0px;
+  left: 0px;
+  width: 1191px;
+  height: 615px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px;
+}
+.himalyantrekking-group12 {
+  top: 0px;
+  left: 0px;
+  width: 1191px;
+  height: 615px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, rgba(34, 34, 34, 0) 0%, rgba(34, 34, 34, 0.3700000047683716) 44%, rgba(34, 34, 34, 1) 100%);
+}
+.himalyantrekking-frame87 {
+  top: 32px;
+  left: 320px;
+  width: 551px;
+  height: 98px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.himalyantrekking-rectangle6334 {
+  top: 0px;
+  left: 0px;
+  width: 547px;
+  height: 98px;
+  position: absolute;
+}
+.himalyantrekking-text085 {
+  top: 28px;
+  left: 83px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 41.599998474121094px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame97 {
+  top: 346px;
+  left: 170.99996948242188px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame88 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-text087 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 41.599998474121094px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.himalyantrekking-text089 {
+  color: rgba(255, 255, 255, 1);
+  width: 849px;
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame91 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.himalyantrekking-frame93 {
+  width: 149px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-right: 0px;
+  border-radius: 8px 0 0 8px;
+  flex-direction: column;
+  justify-content: center;
+}
+.himalyantrekking-frame89 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-mapmarkeralt4 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 16px;
+}
+.himalyantrekking-text091 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame94 {
+  width: 159px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-right: 0px;
+  flex-direction: column;
+  justify-content: center;
+}
+.himalyantrekking-frame90 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-clock {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 16px;
+}
+.himalyantrekking-text093 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame95 {
+  width: 202px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-right: 0px;
+  flex-direction: column;
+  justify-content: center;
+}
+.himalyantrekking-frame911 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-dollarsign {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 16px;
+}
+.himalyantrekking-text095 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame96 {
+  width: 339px;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 8px 8px 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.himalyantrekking-frame784 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+}
+.himalyantrekking-frame92 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.himalyantrekking-star04 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star05 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star06 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star07 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star08 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.himalyantrekking-text097 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame46 {
+  width: 1440px;
+  height: 632px;
+  display: flex;
+  padding: 128px 105px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+  justify-content: center;
+  background-color: rgba(204, 204, 204, 0.10000000149011612);
+}
+.himalyantrekking-cloudsright {
+  top: 8px;
+  left: 1041.5px;
+  width: 695px;
+  height: 376px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-cloudsleft {
+  top: 98px;
+  left: -353.5px;
+  width: 695px;
+  height: 376px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-frame111 {
+  top: 69px;
+  left: 125px;
+  width: 1190px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame47 {
+  width: 1190px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 32px;
+}
+.himalyantrekking-frame44 {
+  width: 378px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 50px;
+  flex-direction: column;
+}
+.himalyantrekking-frame39 {
+  width: 375px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 112px;
+  justify-content: flex-end;
+}
+.himalyantrekking-frame37 {
+  width: 267px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-text099 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 31px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.himalyantrekking-text101 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-spcialicons {
+  width: 76px;
+  height: 76px;
+  position: relative;
+}
+.himalyantrekking-frame40 {
+  width: 378px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: flex-end;
+}
+.himalyantrekking-frame371 {
+  width: 270px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-text103 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 31px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.himalyantrekking-text105 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-spcialicons1 {
+  width: 76px;
+  height: 76px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.himalyantrekking-group1 {
+  top: 8.3125px;
+  left: 0px;
+  width: 76.00005340576172px;
+  height: 60.00092315673828px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.himalyantrekking-group {
+  top: 10.061655044555664px;
+  left: 0px;
+  width: 76.00005340576172px;
+  height: 49.93927001953125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.himalyantrekking-box {
+  top: 25.205577850341797px;
+  left: 1.4130406379699707px;
+  width: 25px;
+  height: 10px;
+  position: absolute;
+}
+.himalyantrekking-vector {
+  top: 0px;
+  left: 0px;
+  width: 52px;
+  height: 30px;
+  position: absolute;
+}
+.himalyantrekking-box1 {
+  top: 28.683134078979492px;
+  left: 65.33905029296875px;
+  width: 25px;
+  height: 10px;
+  position: absolute;
+}
+.himalyantrekking-vector1 {
+  top: 0.1535205841064453px;
+  left: 14.883064270019531px;
+  width: 61px;
+  height: 50px;
+  position: absolute;
+}
+.himalyantrekking-heroiconssolidstar {
+  top: 0px;
+  left: 21.96875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.himalyantrekking-heroiconssolidstar1 {
+  top: 0px;
+  left: 33.84375px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.himalyantrekking-heroiconssolidstar2 {
+  top: 0px;
+  left: 45.71875px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.himalyantrekking-frame41 {
+  width: 292px;
+  height: 292px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 50px;
+}
+.himalyantrekking-ellipse5 {
+  top: 0px;
+  left: 0px;
+  width: 292px;
+  height: 292px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-ellipse6 {
+  top: -11.5px;
+  left: -12px;
+  width: 315px;
+  height: 315px;
+  position: absolute;
+  border-color: rgba(236, 165, 29, 1);
+  border-style: solid;
+  border-width: 3px;
+}
+.himalyantrekking-text107 {
+  top: 98px;
+  left: 34px;
+  color: var(--dl-color-gray-900);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame45 {
+  width: 378px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame42 {
+  width: 378px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 112px;
+}
+.himalyantrekking-spcialicons2 {
+  width: 76px;
+  height: 76px;
+  position: relative;
+  margin-right: 32px;
+}
+.himalyantrekking-frame372 {
+  width: 270px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text112 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 31px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.himalyantrekking-text114 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame43 {
+  width: 378px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.himalyantrekking-spcialicons3 {
+  width: 76px;
+  height: 76px;
+  position: relative;
+  margin-right: 32px;
+}
+.himalyantrekking-frame373 {
+  width: 270px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text116 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 31px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.himalyantrekking-text118 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame102 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-brandicons1 {
+  width: 96px;
+  height: 96px;
+  position: relative;
+  margin-right: 20px;
+}
+.himalyantrekking-frame101 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text120 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: -5px;
+  text-decoration: none;
+}
+.himalyantrekking-text122 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: 48px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.himalyantrekking-text123 {
+  color: rgba(0, 0, 0, 1);
+}
+.himalyantrekking-frame110 {
+  width: 1440px;
+  display: flex;
+  padding: 64px 0;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.himalyantrekking-frame321 {
+  display: flex;
+  padding: 0 123px 0 125px;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 32px;
+  justify-content: space-between;
+}
+.himalyantrekking-frame201 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text125 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 42px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.himalyantrekking-text127 {
+  color: var(--dl-color-gray-800);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame311 {
+  width: 96px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.himalyantrekking-frame301 {
+  display: flex;
+  opacity: 0.20;
+  padding: 10px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 22px;
+  background-color: var(--dl-color-default-primarycolor);
+}
+.himalyantrekking-heroiconssolidchevronleft1 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.himalyantrekking-frame292 {
+  display: flex;
+  padding: 10px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 22px;
+  background-color: var(--dl-color-default-primarycolor);
+}
+.himalyantrekking-heroiconsoutlinechevronright1 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.himalyantrekking-frame109 {
+  display: flex;
+  padding: 0 125px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.himalyantrekking-frame107 {
+  width: 580px;
+  height: 468px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 31px;
+}
+.himalyantrekking-rectangle6336 {
+  top: 0px;
+  left: 0px;
+  width: 580px;
+  height: 368px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px;
+}
+.himalyantrekking-rectangle6338 {
+  top: 0px;
+  left: 0px;
+  width: 580px;
+  height: 368px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px;
+}
+.himalyantrekking-frame106 {
+  top: 390px;
+  left: 0px;
+  width: 580px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame103 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text129 {
+  color: rgba(34, 34, 34, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.himalyantrekking-frame785 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-frame921 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.himalyantrekking-star09 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star10 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star11 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star12 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star13 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.himalyantrekking-text131 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame721 {
+  top: 160px;
+  left: 266px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  opacity: 0.80;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.himalyantrekking-ellipse71 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-play1 {
+  top: 14.222219467163086px;
+  left: 16.444440841674805px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.himalyantrekking-frame104 {
+  top: 267px;
+  left: 154px;
+  width: 271px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text133 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.himalyantrekking-text135 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame108 {
+  width: 579px;
+  height: 468px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.himalyantrekking-rectangle63361 {
+  top: 0px;
+  left: 1px;
+  width: 580px;
+  height: 368px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px;
+}
+.himalyantrekking-rectangle63381 {
+  top: 0px;
+  left: 1px;
+  width: 580px;
+  height: 368px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px;
+}
+.himalyantrekking-frame1061 {
+  top: 390px;
+  left: 0px;
+  width: 580px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame1031 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text137 {
+  color: rgba(34, 34, 34, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.himalyantrekking-frame786 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-frame922 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 16px;
+}
+.himalyantrekking-star14 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star15 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star16 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star17 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-right: 4px;
+}
+.himalyantrekking-star18 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+}
+.himalyantrekking-text139 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame722 {
+  top: 160px;
+  left: 266px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  opacity: 0.80;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.himalyantrekking-ellipse72 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-play2 {
+  top: 14.222219467163086px;
+  left: 16.444440841674805px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.himalyantrekking-frame1041 {
+  top: 267px;
+  left: 154px;
+  width: 271px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text141 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.himalyantrekking-text143 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 20.799999237060547px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame112 {
+  width: 1440px;
+  display: flex;
+  padding: 64px 125px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+}
+.himalyantrekking-frame322 {
+  width: 1230px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 29px;
+  justify-content: space-between;
+}
+.himalyantrekking-frame202 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text145 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.himalyantrekking-text147 {
+  color: var(--dl-color-gray-800);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 27px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame66 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.himalyantrekking-frame261 {
+  height: 406px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-frame234 {
+  width: 376px;
+  height: 240px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 16px 16px 0 0;
+  margin-bottom: 0px;
+}
+.himalyantrekking-rectangle63264 {
+  top: 0px;
+  left: 0px;
+  width: 376px;
+  height: 270px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px 16px 0 0;
+}
+.himalyantrekking-frame114 {
+  display: flex;
+  padding: 32px;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+}
+.himalyantrekking-frame691 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text149 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.himalyantrekking-frame244 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text151 {
+  color: var(--dl-color-gray-900);
+  width: 390px;
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 31.200000762939453px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame641 {
+  height: 406px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-frame235 {
+  width: 377px;
+  height: 240px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 16px 16px 0 0;
+  margin-bottom: 0px;
+}
+.himalyantrekking-rectangle63265 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 270px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px 16px 0 0;
+}
+.himalyantrekking-frame113 {
+  display: flex;
+  padding: 32px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+}
+.himalyantrekking-frame701 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text153 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.himalyantrekking-frame245 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text155 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 31.200000762939453px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame65 {
+  height: 406px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame236 {
+  width: 376px;
+  height: 240px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 16px 16px 0 0;
+  margin-bottom: 0px;
+}
+.himalyantrekking-rectangle63266 {
+  top: 0px;
+  left: 0px;
+  width: 376px;
+  height: 270px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 16px 16px 0 0;
+}
+.himalyantrekking-frame115 {
+  display: flex;
+  padding: 32px;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+}
+.himalyantrekking-frame711 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text157 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 23px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 16px;
+  text-decoration: none;
+}
+.himalyantrekking-frame246 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text159 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 31.200000762939453px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame961 {
+  width: 1440px;
+  display: flex;
+  padding: 64px 110px 64px 125px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 0px;
+  flex-direction: column;
+  background-color: rgba(19, 39, 75, 1);
+}
+.himalyantrekking-frame951 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-frame881 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 73.04317474365234px;
+  flex-direction: column;
+}
+.himalyantrekking-text161 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 27.637958526611328px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 35.534515380859375px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8.883628845214844px;
+  text-decoration: none;
+}
+.himalyantrekking-text163 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17.767257690429688px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 22.702608108520508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame891 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame323 {
+  width: 488.59954833984375px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 9.870698928833008px;
+  flex-direction: column;
+  justify-content: center;
+}
+.himalyantrekking-frame312 {
+  width: 476.7547302246094px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+}
+.himalyantrekking-frame302 {
+  width: 476.7547302246094px;
+  height: 63.17247009277344px;
+  display: flex;
+  padding: 0 31.586238861083984px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(204, 204, 204, 1);
+  border-style: solid;
+  border-width: 0.9870699644088745px;
+  border-radius: 41.456939697265625px 0 0 41.456939697265625px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-white);
+}
+.himalyantrekking-text165 {
+  color: rgba(69, 69, 69, 1);
+  height: auto;
+  font-size: 19.741397857666016px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 25.663818359375px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-button {
+  top: 0px;
+  left: 416.95684814453125px;
+  width: 194.45291137695312px;
+  height: 63.17251968383789px;
+  display: flex;
+  padding: 15.793129920959473px 31.586259841918945px;
+  z-index: 1;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 31.586259841918945px;
+  justify-content: center;
+  background-color: var(--dl-color-default-secondarycolor);
+}
+.himalyantrekking-text167 {
+  color: var(--dl-color-gray-900);
+  height: auto;
+  font-size: 21.213045120239258px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 27.57695960998535px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame99 {
+  display: flex;
+  padding: 64px 125px 64px 124px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-900);
+}
+.himalyantrekking-frame98 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame971 {
+  width: 1191px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-bottom: 64px;
+  flex-direction: column;
+}
+.himalyantrekking-frame931 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 64px;
+}
+.himalyantrekking-text169 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 48px;
+  font-stretch: normal;
+  margin-right: 64px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame923 {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  border-color: transparent;
+}
+.himalyantrekking-group3 {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 16px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.himalyantrekking-ellipse762 {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-ng1 {
+  top: 10px;
+  left: 6px;
+  width: 53px;
+  height: 45px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-group4 {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 16px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.himalyantrekking-ellipse763 {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-taan1 {
+  top: 4px;
+  left: 12px;
+  width: 41px;
+  height: 57px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-group2 {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 16px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.himalyantrekking-ellipse761 {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-ntb1 {
+  top: 11px;
+  left: 7px;
+  width: 50px;
+  height: 43px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-ygknylncysbojfcgqtaf1 {
+  width: 62px;
+  height: 62px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 990px;
+}
+.himalyantrekking-line11 {
+  width: 1191px;
+  height: 0px;
+  position: relative;
+}
+.himalyantrekking-frame941 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 64px;
+}
+.himalyantrekking-frame731 {
+  width: 273px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-text171 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 32px;
+  text-decoration: none;
+}
+.himalyantrekking-frame723 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text173 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text175 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text177 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text179 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text181 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame741 {
+  width: 275px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-text183 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 32px;
+  text-decoration: none;
+}
+.himalyantrekking-frame724 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text185 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text187 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text189 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text191 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text193 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame751 {
+  width: 274px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-text195 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 32px;
+  text-decoration: none;
+}
+.himalyantrekking-frame725 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text197 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text199 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text201 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text203 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 14px;
+  text-decoration: none;
+}
+.himalyantrekking-text205 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame832 {
+  width: 273px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame764 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 32px;
+  flex-direction: column;
+}
+.himalyantrekking-text207 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chelsea Market;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame814 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-frame774 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.himalyantrekking-heroiconssolidphone {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-text209 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame787 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 16px;
+}
+.himalyantrekking-heroiconssolidenvelope {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-text214 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame804 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.himalyantrekking-heroiconsminimappin {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 8px;
+}
+.himalyantrekking-subtract {
+  top: 2px;
+  left: 3px;
+  width: 14px;
+  height: 17px;
+  position: absolute;
+}
+.himalyantrekking-text216 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame912 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.himalyantrekking-frame861 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 167px;
+}
+.himalyantrekking-logowhite2 {
+  width: 120.0000228881836px;
+  height: 83.91609954833984px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  margin-right: 32px;
+}
+.himalyantrekking-logowhite3 {
+  top: 0px;
+  left: 0px;
+  width: 120px;
+  height: 84px;
+  position: absolute;
+  border-color: transparent;
+}
+.himalyantrekking-frame851 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.himalyantrekking-text221 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 4px;
+  text-decoration: none;
+}
+.himalyantrekking-text223 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.himalyantrekking-frame901 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.himalyantrekking-brandicons2 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-brandicons3 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-brandicons4 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-brandicons5 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-brandicons6 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  margin-right: 8px;
+}
+.himalyantrekking-maskgroup {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.himalyantrekking-tripadvisor1 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  border-color: transparent;
+}
